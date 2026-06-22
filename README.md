@@ -5,6 +5,7 @@ A Java-based Hotel Management System with a JavaFX GUI, built using Object-Orien
 ---
 
 📌 Features
+
 - Room booking system
 - Guest management
 - Check-in / Check-out operations
